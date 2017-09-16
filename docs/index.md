@@ -80,9 +80,3 @@ Výuka se koná [vždy ve čtvrtek]({{ site.baseurl }}/reading.html) v 17.30 v *
 ## Omezení zápisu
 
 **Předmět si smí zapsat nejvýše 20 studentů.** Pokud se nevejdete během prvního týdne semestru kvůli kapacitě kurzu, přijďte se podívat na seminář — s trochou štěstí se do kurzu určitě vejdete (mnoho studentů se vždy odregistruje před koncem zápisu).
-
-
-## Code of conduct
-
-
-### Poděkování
