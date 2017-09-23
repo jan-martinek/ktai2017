@@ -15,7 +15,7 @@ menuPosition: 1
 
 ## Aktualizace a změny
 
-Zatím žádné změny :)
+- Do [osmého týdne](https://jan-martinek.github.io/ktai2017/syllabus/8-technologie-jako-extenze-smyslu.html) jsem přidal text o strojovém učení, který rozvíjí témata Foucaultovy Krize horeček.
 
 
 ## Proč si zapsat tento kurz?
