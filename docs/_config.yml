@@ -8,6 +8,6 @@ defaults:
     values:
       layout: unit
 
-baseurl: /ktai2017/
+baseurl: /ktai2017
 docsUrl: "https://is.muni.cz/el/1421/podzim2017/VIKBB55/um/"
 assessmentsUrl: "https://docs.google.com/spreadsheets/d/1K-UtayH6wDZI5JajeHsHizgVFJOn4-__07TIT43qRiU/edit?usp=sharing"
