@@ -56,11 +56,11 @@ Esej je psán průběžně v následujících verzích (rozsahy je potřebné do
 3. **Plný text eseje**  
 6 normostran, 3. listopadu
 4. **Revidovaný plný text eseje**  
-6 normostran, 24. listopadu
+6 normostran, 8. prosince
 5. **Shrnutí eseje včetně argumentace / abstrakt**  
-400 znaků, 8. prosince
+400 znaků, 15. prosince
 6. **Tweet vystihující myšlenku eseje, doprovozený 2–4 obrázky nebo videem**  
-140 znaků, 15. prosince
+140 znaků, 12. ledna
 
 Po uzávěrce vždy následují 3 dny, během kterých vyučující poskytne zpětnou vazbu k odevzdaným pracem, kterou je nutné zapracovat do další verze (v případě zásadních problémů do odezvdané verze).
 
